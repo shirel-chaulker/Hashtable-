@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\21_11_2022\21_11_2022\bin\Debug\21_11_2022.exe.config
+C:\Users\User\source\repos\21_11_2022\21_11_2022\bin\Debug\21_11_2022.exe
+C:\Users\User\source\repos\21_11_2022\21_11_2022\bin\Debug\21_11_2022.pdb
+C:\Users\User\source\repos\21_11_2022\21_11_2022\obj\Debug\21_11_2022.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\21_11_2022\21_11_2022\obj\Debug\21_11_2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\21_11_2022\21_11_2022\obj\Debug\21_11_2022.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\21_11_2022\21_11_2022\obj\Debug\21_11_2022.exe
+C:\Users\User\source\repos\21_11_2022\21_11_2022\obj\Debug\21_11_2022.pdb
